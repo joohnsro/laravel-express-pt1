@@ -1,0 +1,32 @@
+body {
+    margin-top: 50px;
+}
+
+/* Blog defaults */
+.blog-title {
+    font-size: 4.6em;
+}
+
+.blog-subtitle {
+    color: #666666;
+}
+
+/* Loop defaults */
+.loop-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.loop-subtitle {
+    color: #666666;
+    margin-top: 0;
+}
+
+.loop-date {
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.loop-content {
+    font-size: 1.2em;
+}
